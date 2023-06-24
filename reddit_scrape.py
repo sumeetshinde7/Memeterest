@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Sumeet Shinde (sshinde@andrew.cmu.edu)
+@author: Sumeet Shinde
 """
 
 import pandas as pd
