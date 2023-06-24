@@ -4,10 +4,8 @@ Recommendation system to deliver the trendiest meme merchandise to the people.
 ## We use the following resources:
     1) memegenerator.net
     2) reddit.com
-    3) 9gag.com
-    4) Imgur.com
-    5) knowyourmeme.com
-    6) tumblr.com
+    3) memedroid.com
+    4) chive.com
     
 ## From the above-mentioned websites, we intend to scrape the raw data which yields
     • URL to meme images
